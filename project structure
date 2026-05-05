@@ -1,0 +1,22 @@
+project/
+│
+├── data/
+│   ├── movies_dataset.csv
+│   └── posters/
+│
+├── notebooks/
+│   ├── 01_similarity.ipynb
+│   ├── 02_lstm.ipynb
+│   ├── 03_gru.ipynb
+│   ├── 04_resnet.ipynb
+│   ├── 05_efficientnet.ipynb
+│   └── 06_multimodal.ipynb
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── models.py
+│   └── utils.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
